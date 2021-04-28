@@ -1,0 +1,6 @@
+a = "hello world"
+ele = input("enter the element")
+if ele in a:
+    print("founddd!!")
+else:
+    print("not found  ;(")
